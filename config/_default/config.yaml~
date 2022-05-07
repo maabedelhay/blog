@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: My Blog # Website name
+title:  # Website name
 baseURL: 'https://maabedelhay.github.io/' # Website URL
 
 ############################
@@ -69,3 +69,7 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+cascade:
+  - _target:
+      path: /publication/**
+    share: false  

@@ -16,8 +16,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "no caption"
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).
@@ -30,6 +30,7 @@ projects: []
 
 #### Git — это система контроля версий, которую разработчики используют во всем мире для обмена разрабатываемым программным обеспечением. Это помогает вам отслеживать различные версии вашего кода и сотрудничать с другими разработчиками.
 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2000px-Git-logo.svg.png" alt="failed" > 
 
 Если вы работаете над проектом в течение долгого времени, вы можете захотеть отслеживать, какие изменения были внесены, кем и когда эти изменения были внесены. git позволит вам это сделать.
 
