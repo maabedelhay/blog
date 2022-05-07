@@ -26,9 +26,9 @@ content:
 
   # Contact details (edit or remove options as required)
  # email: mohamad.abedhay1@gmail.com
-  phone: +7 (991) 647 57 94
+  # phone: +7 (991) 647 57 94
   address:
-    city: Moscow
+    city: Moscow, Russia
 
     country: Russian Federation
     country_code: RU
