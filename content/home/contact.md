@@ -17,15 +17,15 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
+      id: xvoldpqn
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: mohamad.abedhay1@gmail.com
+ # email: mohamad.abedhay1@gmail.com
   phone: +7 (991) 647 57 94
   address:
     city: Moscow
