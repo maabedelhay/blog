@@ -60,7 +60,7 @@ email: ''
 highlight_name: true
 ---
 
-I  am passionate about computers and technology. My primary focus is on the security field. I can't see myself working in another field and I am fully committed to regularly self improve myself. I find thatdiscipline is one of my strong sides.
+I  am passionate about computers and technology. My primary focus is on the security field. I can't see myself working in another field and I am fully committed to regularly self improve myself. I find that discipline is one of my strong sides.
 
 I started 3 years ago by learning about website technologies and languages.After that, I started to read and learn about everything related to technology and computers. from computer components to operating systems to programming languages to AI. hen is started learning networking.  networking protocols and modules.I picked security and hacking since it is the most fun side of any technology.
 
