@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
+  theme_day: dark
 #  theme_night: minimal
   font: Cyberpunk
   font_size: L
@@ -21,7 +21,7 @@ marketing:
 #    description: '  '
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-HW1TLR9VYX'
     baidu_tongji: ''
   verification:
     google: ''
@@ -94,9 +94,7 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-  marketing:
-    analytics:
-      google_analytics: 'G-HW1TLR9VYX'
+
 # Extensions
 
 extensions:
