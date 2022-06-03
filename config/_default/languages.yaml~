@@ -25,4 +25,4 @@ ru:
         weight: 20
       - name: Контакт
         url: '#contact'
-        weight: 60
+      	weight: 60

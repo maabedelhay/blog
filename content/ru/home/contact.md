@@ -1,0 +1,44 @@
+---
+# An instance of the Contact widget.
+widget: contact
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 130
+
+title: Контакт
+subtitle:
+
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
+  form:
+    provider: formspree
+    formspree:
+      id: xvoldpqn
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
+
+  # Contact details (edit or remove options as required)
+ # email: mohamad.abedhay1@gmail.com
+  # phone: +7 (991) 647 57 94
+  address:
+    city: Москва, Россия
+
+    country: Российская Федерация
+    country_code: RU
+  
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/ab3d_hay'
+ 
+design:
+  columns: '2'
+---
