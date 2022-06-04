@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Lфst Week Task"
+title: "Задача последней недели"
 subtitle: "5 этап индивидуального проекта"
 summary: ""
 authors: [admin]
