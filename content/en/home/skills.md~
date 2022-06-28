@@ -5,13 +5,14 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
-active: false 
+
 # Order that this section appears on the page.
 weight: 60
 
 title: Skills
 subtitle:
 
+background_color: navy
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.

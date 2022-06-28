@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title:  # Website name
+title: ab3d@hay:~$ cd # Website name
 baseURL: 'https://maabedelhay.github.io/' # Website URL
 
 ############################
@@ -53,7 +53,7 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: authors
+  author: admin
 markup:
   _merge: deep
 related:

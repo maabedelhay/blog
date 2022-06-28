@@ -4,13 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
+  - name: $>Home
+    url: '#demo'
     weight: 10
-  
-
-#  - name: Projects
-#    url: '#projects'
+  - name: $>Bio
+    url: 'bio/'
+    weight: 50
+  - name: $>Posts
+    url: 'post/'
+    weight: 20
+#  - name: BIO
+#    url: '#content/home/about.md'
 #    weight: 30
 #  - name: Talks
 #    url: '#talks'
@@ -18,8 +22,8 @@ main:
 #  - name: Publications
 #    url: '#featured'
 #    weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: $>Contac
+    url: 'contact/'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

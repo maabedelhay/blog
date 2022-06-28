@@ -9,20 +9,19 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-ru:
-  languageCode: ru
-  contentDir: content/ru
-  title: 
-  params:
-    description: Site description in Chinese...
-  menu:
-    main:
-      - name: Обо мне
-        url: '#about'
-        weight: 1
-      - name: Пост
-        url: '#posts'
-        weight: 20
-      - name: Контакт
-        url: '#contact'
-        weight: 60
+#ru:
+#  languageCode: ru
+#  contentDir: content/ru
+#  title: 
+#  params:#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: Обо мне
+#        url: '#about'
+#        weight: 1
+#      - name: Пост
+#        url: '#posts'
+#        weight: 20
+#      - name: Контакт
+#        url: '#contact'
+#        weight: 60
