@@ -4,25 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: $>Home
+  - name: $>HOME
     url: '#welcome'
     weight: 10
-  - name: $>Bio
+  - name: $>BIO
     url: 'bio/'
     weight: 50
-  - name: $>Posts
+  - name: $>POSTS
     url: 'post/'
     weight: 20
-#  - name: BIO
-#    url: '#content/home/about.md'
-#    weight: 30
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
-#  - name: Publications
-#    url: '#featured'
-#    weight: 50
-  - name: $>Contact
+  - name: $>CONTACT
     url: 'contact/'
     weight: 60
 
