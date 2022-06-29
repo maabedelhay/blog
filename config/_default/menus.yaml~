@@ -5,7 +5,7 @@
 
 main:
   - name: $>Home
-    url: '#demo'
+    url: '#welcome'
     weight: 10
   - name: $>Bio
     url: 'bio/'
