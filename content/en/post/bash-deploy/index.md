@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Automating Deployments with Bash script"
-subtitle: "Automating the process to deploy changes to site using simple bash script."
+title: "Bash Deploy"
+subtitle: ""
 summary: ""
 authors: [admin]
-tags: []
-categories: []
+tags: [bash]
+categories: [Automation]
 date: 2022-05-07T13:28:34+03:00
-lastmod: 2022-05-07T13:28:34+03:00
+lastmod: 2022-07-02T00:50:26+03:00
 featured: false
 draft: false
 
@@ -35,9 +35,6 @@ projects: []
 ## What is bash script?
 
 A Bash script is a text file containing a series of commands. Any command that can be executed in the terminal can be put into a Bash script. Any series of commands to be executed in the terminal can be written in a text file, in that order, as a Bash script. There for it is used to automate repetitive tasks on Linux file system. For more information  [read more about bash](https://www.javatpoint.com/bash-scripting) .
-
-
- <img src="https://camo.githubusercontent.com/a7de91b915d8b286dda762e3683d9a1c961692d43f8349d020ecd54634a823cf/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" alt="failed" > 
 
 ## Deploying the site
 
@@ -106,7 +103,6 @@ chmod +x deploy.sh
 
 
 This simple script will let us deploy changes with one click.
-
 
 
 
