@@ -187,8 +187,9 @@ So i used curl to make a POST  request and it worked i received the flag in the 
 
 ```
 
-- Replace the URL with your UR and the is parameter with the MD5 hash of the id number of the post to delete.
+- Replace the URL with your URL and the "id=" parameter with the MD5 hash of the id number of the post to delete.
 
 ![](img/flag6.png)
+
 
 That's it for the challenge. Hope you learned something. Obviously we did not perform any advanced attacks and techniques.  Using curiosity and  basic web and networking knowledge was enough for this challenge. 
